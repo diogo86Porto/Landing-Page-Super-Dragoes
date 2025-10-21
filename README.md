@@ -1,5 +1,3 @@
-[Landing Page Super Dragoes.html](https://github.com/user-attachments/files/23019358/Landing.Page.Super.Dragoes.html)
-<!doctype html>
 <html lang="pt">
 <head>
   <meta charset="utf-8" />
